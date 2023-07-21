@@ -1,0 +1,3 @@
+<a href="LawBill.aspx?t=lawsuggestionssearch&amp;lawitemid=2207606">הצעת חוק מיסוי תשלומים בתקופת בחירות (תיקון מס' 9) (הארכת תקופת הבחירות),  התשפ"ג–2023 (פ/3671/25) (כ/973)</a>
+//*[@id="ctl00_ctl61_g_9fee960a_e6b8_482a_a34f_1cd635fef73f_rgLawBillsResults_ctl00__0"]/td[2]/a
+#ctl00_ctl61_g_9fee960a_e6b8_482a_a34f_1cd635fef73f_rgLawBillsResults_ctl00__2 > td:nth-child(2) > a
